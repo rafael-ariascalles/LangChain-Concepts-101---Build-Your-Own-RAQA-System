@@ -1,2 +1,4 @@
 .env
 /__pycache__
+/aimakerspace/__pycache__/
+/aimakerspace/openai_utils/__pycache__/
